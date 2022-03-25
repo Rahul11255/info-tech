@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/info-tech/static/css/main.ecd610fc.css",
+    "main.js": "/info-tech/static/js/main.e857bc51.js",
+    "static/js/787.edbc0c76.chunk.js": "/info-tech/static/js/787.edbc0c76.chunk.js",
+    "index.html": "/info-tech/index.html",
+    "main.ecd610fc.css.map": "/info-tech/static/css/main.ecd610fc.css.map",
+    "main.e857bc51.js.map": "/info-tech/static/js/main.e857bc51.js.map",
+    "787.edbc0c76.chunk.js.map": "/info-tech/static/js/787.edbc0c76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd610fc.css",
+    "static/js/main.e857bc51.js"
+  ]
+}
